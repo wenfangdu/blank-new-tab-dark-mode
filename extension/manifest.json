@@ -1,7 +1,7 @@
 {
   "name": "Blank New Tab Dark Mode",
   "description": "Override the New Tab page with a dark blank page",
-  "version": "1.0",
+  "version": "1.0.2",
   "incognito": "split",
   "chrome_url_overrides": {
     "newtab": "blank.html"
@@ -11,6 +11,6 @@
     "48": "icon48.png",
     "128": "icon128.png"
   },
-  "manifest_version": 2,
+  "manifest_version": 3,
   "default_locale": "en"
 }
